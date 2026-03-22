@@ -1,4 +1,4 @@
-# Worldwide Earthquake Events Analsis Using Microsoft Fabric
+# Worldwide Earthquake Events Analysis Using Microsoft Fabric
 
 An end-to-end **Data Engineering project** built using **Microsoft Fabric**, implementing a full **Medallion Architecture (Bronze → Silver → Gold)** with **CI/CD using Fabric Deployment Pipelines**.
 
