@@ -113,11 +113,15 @@ Power BI dashboard built on top of Gold layer.
 * 🎚️ Significance filter
 * 📈 Interactive insights
 
+The below screenshot shows the report:
+<img src="Screenshots/Report.png"/>
+
 ---
 
 ## 🔁 CI/CD — Deployment Pipeline
 
 This project implements **CI/CD using Fabric Deployment Pipelines** across three environments as below snapshot:
+<img src="Screenshots/Deployment_pipeline.PNG"/>
 
 ---
 
